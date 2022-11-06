@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @htonioni
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python
-- 📫 How to reach me htonioni@outlook.com
+# 👋 Olá, Eu sou Hugo Tonioni!
 
-<!---
-htonioni/htonioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/htonioni">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=htonioni&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htonioni&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+
+##
+<div style="display: inline_block"><br>
+<img align="center" alt="hg-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="hg-ds" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+</div>
+
+###
+- 🎓 I'm in my first year of studies towards a bachelor's in Software Engineering!
+- 💻 In my freetime I'm studying Python in Alura website
+- 📫 You can reach me in: htonioni@outlook.com
