@@ -15,5 +15,5 @@
 
 ###
 - 🎓 I'm in my first year of studies towards a bachelor's in Software Engineering!
-- 💻 In my freetime I'm studying Python in Alura website
+- 💻 In my freetime you can find me at Alura studying Python.
 - 📫 You can reach me in: htonioni@outlook.com
