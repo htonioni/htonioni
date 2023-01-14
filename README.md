@@ -1,7 +1,5 @@
-
 <div align="center">
-  
-  <h1> 👋 Olá, Eu sou Hugo Tonioni! </h1>
+  <h1> Hello, I'm Hugo! </h1>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=htonioni&hide_title=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
 
@@ -16,5 +14,5 @@
 
 ###
 - 🎓 I'm in my first year of studies towards a bachelor's in Software Engineering!
-- 💻 Currently, in my free time, you'll find me learning Python on Alura
+- 💻 Currently, In my free time, I study Python, HTML and CSS on Alura online courses plataform.
 - 📫 You can reach me in htonioni@outlook.com
