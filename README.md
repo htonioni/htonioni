@@ -14,5 +14,5 @@
 
 ###
 - 🎓 I'm in my first year of studies towards a bachelor's in Software Engineering!
-- 💻 Currently, In my free time, I study Python, HTML and CSS on Alura online courses plataform.
+- 💻 Currently, I study Python, HTML and CSS on Alura online courses platform.
 - 📫 You can reach me in htonioni@outlook.com
