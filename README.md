@@ -13,6 +13,6 @@
   
 
 ###
-- 🎓 I'm in my first year of studies towards a bachelor's in Software Engineering!
+- 🎓 I'm in my first year of studies towards a bachelor's in Information Technology!
 - 💻 Currently, I study Python, HTML and CSS on Alura online courses platform.
 - 📫 You can reach me in htonioni@outlook.com
