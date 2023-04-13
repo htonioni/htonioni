@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hello, I'm Hugo! </h1>
   
-  <img height="160em" src="https://readme-stats-hg-yaa7.vercel.app/api?username=htonioni&hide_title=true&hide_border=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img src="https://readme-stats-hg-yaa7.vercel.app/api?username=htonioni&hide_title=true&hide_border=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
 
   <img src="https://readme-stats-hg-yaa7.vercel.app/api/top-langs/?username=htonioni&hide=Jupyter%20Notebook&langs_count=8&layout=compact&hide_border=true&theme=vision-friendly-dark&" />  
 
