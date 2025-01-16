@@ -9,15 +9,17 @@
 
 <div style="display: inline_block", align="center"><br>
 <img align="center" alt="hg-JS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="hg-react" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
 <img align="center" alt="hg-HTML" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" alt="hg-css" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="hg-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="hg-ds" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="hg-sf" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg">
 
 </div>  
 
 ###
-- 🎓 I'm in my second year of studies toward a bachelor's in Information Technology!
+- 🎓 I'm in my third year of studies toward a bachelor's in Information Technology!
 - 🛩️ Currently I'm an Intern @ Embraer
-- 💻 I'm studying Javascript, Salesforce, Python, HTML and CSS.
+- 💻 I'm studying Javascript, React, Node.js, Python, Salesforce, HTML and CSS.
 - 📫 You can reach me at htonioni@outlook.com
