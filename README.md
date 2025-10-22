@@ -13,13 +13,12 @@
 
 </div>
 
-## 🚀 About Me
-
-- 🎓 **Information Technology Student** (3rd year) 
-- 🛩️ **Intern at Embraer** 
+###
+- 🎓 I'm in my third year of studies toward a bachelor's in Information Technology!
+- 🛩️ Currently I'm an Intern @ Embraer
 - 💻 **Passionate Developer** 
-- 🌟 **Problem Solver**
 - 📍  **São Paulo, Brazil**
+
 
 ## 💻 Tech Stack
 
