@@ -44,32 +44,3 @@
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=htonioni&repo=hugo_tonioni-portfolio&theme=vision-friendly-dark&hide_border=true)](https://github.com/htonioni/hugo_tonioni-portfolio)
-[![SmartNoteAI](https://github-readme-stats.vercel.app/api/pin/?username=htonioni&repo=smart-note-ai&theme=vision-friendly-dark&hide_border=true)](https://github.com/htonioni/smart-note-ai)
-
-</div>
-
-### 🔥 Highlighted Projects:
-- **[Portfolio Website](https://github.com/htonioni/hugo_tonioni-portfolio)** - Modern portfolio built with Next.js and TypeScript
-- **[SmartNoteAI](https://github.com/htonioni/smart-note-ai)** - AI-powered note management application
-- **[React Projects Collection](https://github.com/htonioni/react-projects)** - Various React and TypeScript learning projects
-- **[E-commerce Database](https://github.com/htonioni/mysql-ecommerce-dio._)** - Complete MySQL database design for e-commerce
-
-
-## Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htonioni/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htonioni@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/htonioni/hugo_tonioni-portfolio)
-
-</div>
-
-
