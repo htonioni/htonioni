@@ -2,7 +2,7 @@
   
   # 👋 Hello, I'm Hugo Tonioni!
   
-  ### 🚀 Full-Stack Developer | Information Technology Student | Embraer Intern
+  ### 🚀 Full-Stack Developer | Information Technology Student 
   
   <p align="center">
     <a href="https://www.linkedin.com/in/htonioni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,13 +15,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **Information Technology Student** (3rd year) - Building strong foundations in software development
-- 🛩️ **Intern at Embraer** - Gaining real-world experience in aerospace technology
-- 💻 **Passionate Developer** - Always learning new technologies and building innovative projects
-- 🌟 **Problem Solver** - Love tackling complex challenges with creative solutions
-- 📍 **Location**: São Paulo, Brazil.
-
----
+- 🎓 **Information Technology Student** (3rd year) 
+- 🛩️ **Intern at Embraer** 
+- 💻 **Passionate Developer** 
+- 🌟 **Problem Solver**
+- 📍  **São Paulo, Brazil**
 
 ## 💻 Tech Stack
 
