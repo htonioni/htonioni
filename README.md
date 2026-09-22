@@ -2,7 +2,7 @@
   
   # 👋 Hello, I'm Hugo Tonioni!
   
-  ### 🚀 Full-Stack Developer | Information Technology Student 
+  ### 🚀 Full-Stack Developer | Full-stack Developer |  São Paulo, Brazil
   
   <p align="center">
     <a href="https://www.linkedin.com/in/htonioni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,11 +13,6 @@
 
 </div>
 
-###
-- 🎓 I'm in my third year of studies toward a bachelor's in Information Technology!
-- 🛩️ Currently I'm an Intern @ Embraer
-- 💻 **Passionate Developer** 
-- 📍  **São Paulo, Brazil**
 
 
 ## 💻 Tech Stack
